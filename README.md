@@ -71,6 +71,7 @@ Python으로 CLI에서 즐길 수 있는 주사위 기반 보드게임을 구현
 ## 📂 파일 구조
 
 📁 Project_Python
+|------|------|
 ├─ final.py # 게임 전체 실행
 ├─ rolling_dice.py # 주사위 굴리기 함수
 ├─ score.py # 점수 계산 함수
